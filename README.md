@@ -1,0 +1,2 @@
+# maven-project
+Best Practice
